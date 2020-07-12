@@ -298,10 +298,10 @@ strings:
   285: '{STRINGID} Zachód'
   286: '{STRINGID} Centrum'
   287: 'Węzeł {STRINGID}'
-  288: '{STRINGID} Osobowy'
+  288: '{STRINGID} Przystanek'
   289: '{STRINGID} Dolina'
   290: '{STRINGID} Wyżyny'
-  291: '{STRINGID} Bory'
+  291: '{STRINGID} Puszcza'
   292: '{STRINGID} Wybrzeże'
   293: '{STRINGID} Wymiana'
   294: 'Port Lotniczy {STRINGID}'
@@ -313,11 +313,11 @@ strings:
   300: 'Zakłady {STRINGID}'
   301: '{STRINGID} Górny'
   302: '{STRINGID} Dolny'
-  303: '{STRINGID} Lądowisko'
+  303: 'Lądowisko {STRINGID}'
   304: '{STRINGID} Podlesie'
   305: '{STRINGID} Rozjazd'
   306: '{STRINGID} Skrzyżowanie'
-  307: '{STRINGID} Wzgórza'
+  307: '{STRINGID} Wzgórze'
   308: '{STRINGID} 1'
   309: '{STRINGID} 2'
   310: '{STRINGID} 3'
@@ -1260,12 +1260,12 @@ strings:
   1237: '{SMALLFONT}{COLOUR BLACK}Kliknij polecenie, aby zaznaczyć. Kliknij dwukrotnie, aby przesunąć widok na stację/punkt orientacyjny'
   1238: '{SMALLFONT}{COLOUR BLACK}Kliknij polecenie, aby skopiować do wybranego pojazdu'
   1239: '{STRINGID} {STRINGID}{NEWLINE}{COLOUR WINDOW_3}{STRINGID}'
-  1240: Budowa Pociągów
-  1241: Budowa Autobusów
-  1242: Budowa Ciężarówek
-  1243: Budowa Tramwajów
-  1244: Budowa Samolotów
-  1245: Budowa Statków
+  1240: Buduj Pociągi
+  1241: Buduj Autobusy
+  1242: Buduj Ciężarówki
+  1243: Buduj Tramwaje
+  1244: Buduj Samoloty
+  1245: Buduj Statki
   1246: Może być umieszczony tylko na {STRINGID}...
   1247: Droga
   1248: '{COLOUR BLACK}Brak dostępnych pojazdów'
@@ -1309,7 +1309,7 @@ strings:
   1286: '{SMALLFONT}{COLOUR BLACK}Pojazdy przeznaczone na {STRINGID}'
   1287: "{SPRITE}{NEWLINE 31 8} {STRINGID}"
   1288: "{POP16}{POP16}{NEWLINE 31 8} {STRINGID}"
-  1289: "{SPRITE}{NEWLINE 31 8} {STRINGID} Konstrukcja"
+  1289: "{SPRITE}{NEWLINE 31 8} Konstruuj {STRINGID}"
   1290: '{STRINGID} władze lokalne odmawiają zezwolenia!'
   1291: Miasta
   1292: Budowa Nowego Miasta
@@ -1928,7 +1928,7 @@ strings:
   1894: '{SMALLFONT}{COLOUR BLACK}Skieruj kursor myszy, aby umieścić autobus na drodze i kliknij lewym przyciskiem myszy, aby go umieścić...'
   1895: '{SMALLFONT}{COLOUR BLACK}Przed ustawieniem autobusu kierowca musi wiedzieć, dokąd ma jechać. Wybierz zakładkę Szczegóły trasy w oknie pojazdu...'
   1896: '{SMALLFONT}{COLOUR BLACK}Aby ustawić trasę, wystarczy kliknąć na stację lub przystanek...'
-  1897: '{SMALLFONT}{COLOUR BLACK}Teraz możemy ustawić jadący autobus...'
+  1897: '{SMALLFONT}{COLOUR BLACK}Teraz możemy puścić autobus w trasę...'
   1898: '{SMALLFONT}{COLOUR BLACK}Przyjrzyjmy się, jak zabiera pierwszych pasażerów...'
 
   # Tutorial 2
